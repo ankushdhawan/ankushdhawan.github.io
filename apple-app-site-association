@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "DJX3Y775Q3.com.consumer.hummingbird"
+        ],
+        "components": []
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "DJX3Y775Q3.com.consumer.hummingbird"
+    ]
+  },
+  "appclips": {}
+}
