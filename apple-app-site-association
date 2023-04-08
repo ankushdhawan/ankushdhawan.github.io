@@ -6,8 +6,9 @@
         "appIDs": [
           "DJX3Y775Q3.com.consumer.hummingbird"
         ],
-        "components": []
-      }
+        "components": [],
+        "paths": ["*"]
+  }
     ]
   },
   "webcredentials": {
